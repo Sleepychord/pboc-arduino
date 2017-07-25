@@ -1,13 +1,13 @@
 {
   "name": "MFRC522",
   "keywords": "rfid, spi",
-  "description": "Read a card using a MFRC522 reader on your SPI interface",
+  "description": "Read/Write a RFID Card or Tag using the ISO/IEC 14443A/MIFARE interface. Support PBOC card.",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/miguelbalboa/rfid.git"
+    "url": "https://github.com/Sleepychord/pboc-arduino.git"
   },
-  "version": "1.3.6",
+  "version": "2.0.0",
   "exclude": "doc",
   "frameworks": "arduino",
   "platforms": ["atmelavr", "ststm32", "teensy", "espressif8266"]

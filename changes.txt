@@ -7,6 +7,8 @@ unreleased
 - Replaced UINT8_MAX by UNUSED_PIN
 - Replaced default value NULL for pointer with correct nullptr
 - 
+26 July 2017, v2.0.0
+- This is an extension version to read PBOC(中国人民银行金融卡标准) card. @Sleepychord
 
 22 Mar 2017, v1.3.6
 - Added deprecate and compiler warnings @Rotzbua
